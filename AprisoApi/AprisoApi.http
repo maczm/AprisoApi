@@ -1,0 +1,6 @@
+@AprisoApi_HostAddress = http://localhost:5085
+
+GET {{AprisoApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
